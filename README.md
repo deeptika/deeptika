@@ -7,7 +7,6 @@ Passionate woman in tech, SWE with a strong background in data, software develop
 - **Vibe Check**: Data analysis of 180,000+ YouTube comments and live chats from presidential debates
 - **Link Spam Detection**: Classification system to detect Internet link spam with 92% accuracy
 - **Cafeteria Management System**: Web-app solution for streamlining cafeteria processes
-- Analyzes web censorship across multiple countries
 
 ## 🏆 Certifications
 
