@@ -5,6 +5,7 @@ Passionate woman in tech, SWE with a strong background in data, software develop
 ## 🚀 Featured Projects
 
 - **Vibe Check**: Data analysis of 180,000+ YouTube comments and live chats from presidential debates
+- **Codecrafters Shell**: (in progress) Building my own shell using Python on Codecrafters
 - **Link Spam Detection**: Classification system to detect Internet link spam with 92% accuracy
 - **Cafeteria Management System**: Web-app solution for streamlining cafeteria processes
 
