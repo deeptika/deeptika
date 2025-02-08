@@ -6,16 +6,11 @@ Eager to contribute to innovative projects and solve complex challenges!
 
 ## 🚀 Featured Projects
 
-- **Vibe Check**: Data analysis of 180,000+ YouTube comments and live chats from presidential debates _(Python/ML/data engineering/data analysis)_
-- **Codecrafters Shell**: (in progress) Building my own shell using Python on Codecrafters _(Python/Shell)_
-- **Link Spam Detection**: Classification system to detect Internet link spam with 92% accuracy _(Python/ML/Big Data Analytics)_
-- **Cafeteria Management System**: Web-app solution for streamlining cafeteria processes _(Ruby on Rails/HTML/CSS/Javascript)_
-
-## 🏆 Certifications
-
-- ISO/IEC 27001 Information Security Associate
-- Lean Six Sigma White Belt
-- Lean Foundations Professional (LPEC)
+- **Vibe Check** | Data analysis of 180,000+ YouTube comments and live chats from presidential debates | _(Python/ML/data engineering/data analysis)_
+- **Codecrafters Shell** | (in progress) Building my own shell using Python on Codecrafters | _(Python/Shell)_
+- **Web Censorship Detector pipeline** | A project to detect censorship in websites; consists of an ETL pipeline, keyword extraction analysis of website content, and analysis of the relationship between website content domain and censorship presence | _(Python/Cybersecurity/ML/Data Analysis)_
+- **Link Spam Detection** | Classification system to detect Internet link spam with 92% accuracy | _(Python/ML/Big Data Analytics)_
+- **Cafeteria Management System** | Web-app solution for streamlining cafeteria processes | _(Ruby on Rails/HTML/CSS/Javascript)_
 
 ## 📫 Let's Connect!
 
