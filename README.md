@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Passionate woman in tech, SWE with a strong background in data, software development, and security. Recent graduate with a Master's in Computer Science from the University of Florida, eager to contribute to innovative projects and solve complex challenges.
+Passionate woman in tech, SWE with a strong background in data, software development, and security. 2 years of professional experience at Navis, and a recent graduate with a Master's in Computer Science from the University of Florida. 
+
+Eager to contribute to innovative projects and solve complex challenges!
 
 ## 🚀 Featured Projects
 
