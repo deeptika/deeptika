@@ -11,8 +11,8 @@ Eager to contribute to innovative projects and solve complex challenges!
 - **Web Censorship Detector pipeline** A project to detect censorship in websites; consists of an ETL pipeline, keyword extraction analysis of website content, and analysis of the relationship between website content domain and censorship presence
 - **Link Spam Detection**: Classification system to detect Internet link spam with 92% accuracy
 - **Cafeteria Management System**: Web-app solution for streamlining cafeteria processes
-- **chat-transfer**: Imple
-- **ftp-server-client:**
+- **chat-transfer**: Implementation of Java-based chat application that allows two users to communicate over a network connection; includes text messaging and file transfer.
+- **ftp-server-client:** Implementation of File Transfer Protocol (FTP) in Java one-to-many client-server setting.
 
 ## 📫 Let's Connect!
 
