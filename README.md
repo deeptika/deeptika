@@ -4,18 +4,10 @@ Passionate woman in tech, SWE with a strong background in data, software develop
 
 ## 🚀 Featured Projects
 
-### Vibe Check
-- Data analysis of 180,000+ YouTube comments from presidential debates
-- Real-time tracking system using Websockets and Python multithreading
-- RESTful API with Flask, NLP techniques, and interactive dashboards
-
-### Internet Censorship Detection
-- Classification system using unsupervised keyword extraction models
+- **Vibe Check**: Data analysis of 180,000+ YouTube comments and live chats from presidential debates
+- **Link Spam Detection**: Classification system to detect Internet link spam with 92% accuracy
+- **Cafeteria Management System**: Web-app solution for streamlining cafeteria processes
 - Analyzes web censorship across multiple countries
-
-### Cafeteria Management System
-- Web-app solution for streamlining cafeteria processes
-- Responsive front-end using JavaScript
 
 ## 🏆 Certifications
 
