@@ -19,3 +19,4 @@ Passionate woman in tech, SWE with a strong background in data, software develop
 - LinkedIn: [linkedin.com/in/deeptika-kannan](https://linkedin.com/in/deeptika-kannan)
 - Email: [deeptika24@gmail.com](deeptika24@gmail.com)
 - [Leetcode](https://leetcode.com/u/deepsri1905/)
+- [CodeCrafters](https://app.codecrafters.io/users/deeptika)
