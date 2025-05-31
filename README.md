@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Deeptika, a passionate woman in tech, SWE with a strong background in data, software development, and security. I have 2 years of professional experience at Navis, and I'm a recent graduate with a Master's in Computer Science from the University of Florida. 
+I'm Deeptika, a passionate woman in tech, SWE with a strong background in data, software development, and security. I have 2 years of professional experience, and I'm a recent graduate with a Master's in Computer Science from the University of Florida. 
 
 Eager to contribute to innovative projects and solve complex challenges!
 
