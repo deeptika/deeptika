@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello there 👋
 
-I'm Deeptika, a passionate woman in tech, SWE with a strong background in data, software development, and security. I have 2 years of professional experience, and I'm a recent graduate with a Master's in Computer Science from the University of Florida. 
+I'm Deeptika Kannan, a software engineer and recent graduate in computer science from the University of Florida (Go Gators!).  I'm passionate about building scalable, data-driven solutions that make a real impact. With experience in AI-powered solutions, large-scale data analysis, and cloud-based microservices, I thrive on solving complex challenges using Python, Java, React, and modern data engineering tools. Beyond tech, I'm a proud advocate for women in tech, and I'm passionate about leveraging technology for community outreach. 
 
-Eager to contribute to innovative projects and solve complex challenges!
+Let’s connect to talk tech, AI, or new opportunities!
 
 ## 🚀 Featured Projects
 
